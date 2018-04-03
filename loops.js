@@ -1,4 +1,3 @@
-var array = {};
 function forLoop(array){
   for (let i = 0; i < 25; i++){
     if (i==1){
@@ -19,9 +18,22 @@ function whileLoop(n){
   return 'done';
 }
 
+
 function doWhileLoop(array){
   do {array.pop()}
   while (array.length >0);
   return array
 }
+
+
+
+function doWhileLoop(array){
+  do {array.pop()
+    
+  }
+  while (array.length >0); {
+    
+  }
+}return array
+
   
